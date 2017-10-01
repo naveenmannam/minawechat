@@ -10,6 +10,8 @@
     "lint": "ng lint",
     "e2e": "ng e2e"
   },
+  "git repository": "https://github.com/naveenmannam/minawechat.git",
+  "author": "Naveen Mannam",
   "private": true,
   "dependencies": {
     "@angular/animations": "^4.2.4",

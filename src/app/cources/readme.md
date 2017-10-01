@@ -2,8 +2,5 @@
 
 ## Briefs about the cources component
 
-* One
-* Two
-* Three
-* Four
+### This component gives more details about the cources listed in the course component.
 
